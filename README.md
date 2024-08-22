@@ -52,10 +52,6 @@ La classe `App` gestisce l'interfaccia utente e la logica dell'applicazione:
 
 Sentiti libero di fork questo repository e di proporre miglioramenti attraverso pull request.
 
-## Licenza
-
-[MIT License](https://opensource.org/licenses/MIT)
-
 ## Autore
 
 ELPythonEMI
