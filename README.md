@@ -1,5 +1,5 @@
 # ELReadTab
-
+![ELReadTab Screenshot](elreadtab.png)
 ELReadTab è un'applicazione desktop Python per la lettura e visualizzazione di file di testo strutturati, come spartiti musicali o testi di canzoni. Utilizza l'interfaccia grafica Tkinter per offrire una visualizzazione user-friendly del contenuto dei file.
 
 ## Caratteristiche
